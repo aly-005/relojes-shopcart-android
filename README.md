@@ -13,7 +13,13 @@ Relojería es una app Android simple para gestionar una lista de relojes y visua
 ---
 
 ## 📸 Capturas
-(Aun no tengo capturas XD...)  
+![Inicio](docs/screenshots/Inicio-app.jpeg)
+![Menú](docs/screenshots/menu-app.jpeg)
+![Crear reloj](docs/screenshots/anadirreloj-app.jpeg)
+![Agregando reloj](docs/screenshots/agregarreloj-app.jpeg)
+![Carrito vacío](docs/screenshots/carrito-app.jpeg)
+![Carrito con un reloj](docs/screenshots/carritoconreloj-app.jpeg)
+![Carrito con varios relojes](docs/screenshots/carritoconrelojes-app.jpeg)
 
 ---
 

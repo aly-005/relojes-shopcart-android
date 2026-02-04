@@ -1,0 +1,5 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:background="@color/red" android:padding="32dp">
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Lista de Compras de relojes" android:textColor="@color/white" android:textSize="24sp" android:textStyle="bold" android:gravity="left"/>
+    </LinearLayout>
+</LinearLayout>

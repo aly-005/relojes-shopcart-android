@@ -7,7 +7,7 @@ Relojería es una app Android simple para gestionar una lista de relojes y visua
 
 ## Demo / Estado
 **Estado:** En desarrollo (funcionalidad básica implementada)  
-**Demo:**
+**Demo:** [Ver video demo](docs/screenshots/gif-demo-app.mp4)  
 **APK disponible:** [v0.1.0-alpha](https://github.com/aly-005/relojes-shopcart-android/releases/tag/v0.1.0-alpha)
 
 ---

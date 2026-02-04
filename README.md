@@ -13,6 +13,10 @@ Relojería es una app Android simple para gestionar una lista de relojes y visua
 ---
 
 ## 📸 Capturas  
+<p float="left">
+  <img src="docs/screenshots/Inicio-app.jpeg" width="200" />
+  <img src="docs/screenshots/menu-app.jpeg" width="200" />
+</p>
 <img src="docs/screenshots/Inicio-app.jpeg" width="200" />
 <img src="docs/screenshots/menu-app.jpeg" width="200" />
 ![Inicio](docs/screenshots/Inicio-app.jpeg)
